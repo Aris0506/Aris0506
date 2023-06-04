@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aris0506
-- 👀 I’m interested in Backend Enginer/Developer
+- 👀 I’m interested in Backend Engineer/Developer
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on (for now i'm still learning)
 - 📫 How to reach me ...
