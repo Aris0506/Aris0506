@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ais05_06
-- 👀 I’m interested in Backend Engineer/Developer
-- 🌱 I’m currently learning NodeJs
+- 👋 Hi, I’m Aris Sinopa
+- 👀 I’m not robot wakwak
+- 🌱 I’m currently learning webdev and data analyst, because jobless
 - 💞️ I’m looking to collaborate on (for now i'm still learning)
 - 📫 How to reach me ...
 
