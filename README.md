@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aris Sinopa
 - 👀 I’m not robot wakwak
-- 🌱 I’m currently learning webdev and data analyst, because jobless
-- 💞️ I’m looking to collaborate on (for now i'm still learning)
-- 📫 How to reach me ...
+- 🌱 I’m currently learning webdev and data analyst because jobless, just kidding 
+- 💞️ I'm still learning
 
 <!---
 Aris0506/Aris0506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
