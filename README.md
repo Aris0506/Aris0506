@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aris Sinopa
 - 👀 I’m not robot wakwak
-- 🌱 I’m currently learning webdev and data analyst because jobless, just kidding 
+- 🌱 I’m currently learning data analyst because jobless, just kidding 
 - 💞️ I'm still learning
 
 <!---
